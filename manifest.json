@@ -1,0 +1,25 @@
+{
+  "dir": "ltr",
+  "lang": "en",
+  "name": "Bored",
+  "short_name": "Bored",
+  "scope": "/",
+  "display": "browser",
+  "start_url": "https://borediam.netlify.app/",
+  "background_color": "#000000",
+  "theme_color": "transparent",
+  "description": "",
+  "orientation": "any",
+  "related_applications": [],
+  "prefer_related_applications": "false",
+  "icons": [
+    {
+      "src": "https://media.tenor.com/images/50c379e5158bfd549a781f1c46560e7d/tenor.gif",
+      "type": "image/gif",
+      "sizes": "220x220"
+    }
+  ],
+  "url": "https://borediam.netlify.app",
+  "generated": true,
+  "screenshots": []
+}

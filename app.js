@@ -21,7 +21,10 @@ async function getdata() {
     //Its the End Bruh, Anyway Nice Meeting You :)
 };
 
-
+if ('serviceWorker' in navigator) {
+  window.addEventListener('load', function() {
+    navigator.serviceWorker.register('lol/pwabuilder-sw.js');
+  });
     
      
 }

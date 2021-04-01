@@ -23,7 +23,7 @@ async function getdata() {
 
 if ('serviceWorker' in navigator) {
   window.addEventListener('load', function() {
-    navigator.serviceWorker.register('lol/pwabuilder-sw.js');
+    navigator.serviceWorker.register('pwabuilder-sw/pwabuilder-sw.js');
   });
     
      
